@@ -10,8 +10,3 @@ Dieses Projekt ist eine einfache Umsetzung des **Schiffe versenken (Battleship)*
 - **H2-Datenbank (in-memory)**
 - **Postman oder Swagger UI** für API-Tests
 
-## Setup & Installation
-1. **Repository klonen (falls Git genutzt wird):**
-   ```sh
-   git clone https://github.com/dein-repository/battleship.git
-   cd battleship
