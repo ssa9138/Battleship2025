@@ -10,3 +10,18 @@ Dieses Projekt ist eine einfache Umsetzung des **Schiffe versenken (Battleship)*
 - **H2-Datenbank (in-memory)**
 - **Postman oder Swagger UI** für API-Tests
 
+## Features
+- Erstellen eines Spiels
+- Hinzufügen und Verwalten von Spielern
+- Platzieren von Schiffen
+- Raten von Schiffspositionen
+- Anzeige des aktuellen Spielstands
+
+## API Endpunkte
+Die Anwendung stellt REST APIs zur Verfügung. Die OpenAPI-Dokumentation befindet sich unter:
+```
+http://localhost:8080/swagger-ui.html
+```
+
+## Autor
+- **Dein Name**
